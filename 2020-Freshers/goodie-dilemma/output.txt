@@ -1,0 +1,4 @@
+Fitbit Plus : 7980
+Microwave Oven : 9800
+Alexa : 9999
+Digital Camera : 11101
